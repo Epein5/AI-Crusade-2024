@@ -1,7 +1,7 @@
 # AI-Crusade-2024
 
 ## Introduction
-AI-Crusade-2024 is an advanced web-based assistant designed to provide localized, voice-based responses to user queries. The assistant leverages state-of-the-art technologies for speech recognition, language processing, and text-to-speech conversion to deliver a seamless user experience.
+Nepathaya is an advanced web-based assistant designed to provide localized, voice-based responses to user queries. The assistant leverages state-of-the-art technologies for speech recognition, language processing, and text-to-speech conversion to deliver a seamless user experience.
 
 ## Website
 
