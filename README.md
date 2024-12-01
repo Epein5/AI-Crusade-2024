@@ -67,6 +67,17 @@ This architecture ensures seamless interaction between the user and the assistan
 1. Install dependencies:
 ```bash
 npm install
+```
+
+2. Generate embeddings:
+```bash
 npm run generate
+```
+
+3. Start the server:
+```bash
 npm run dev
 ```
+
+4. Access the website:
+- Open the website in your browser and start interacting with the AI-Crusade-2024 assistant.
